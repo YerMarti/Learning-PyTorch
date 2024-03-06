@@ -21,6 +21,8 @@ These are resources that I found useful while learning and developing Machine Le
 
 * [PyTorch documentation](https://pytorch.org/docs/stable/index.html)
 * [TensorFlow PlayGround](https://playground.tensorflow.org)
+* [Scikit-learn documentation](https://scikit-learn.org/stable/modules/classes.html)
+* [Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 ## Bibliography
 
