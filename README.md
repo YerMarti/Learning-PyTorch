@@ -6,10 +6,10 @@ I used Google Collab's Jupyter Notebooks to take notes of the lessons.
 
 ## Main contents
 
-| **Lesson**                       | **Content**                                                                                                           | **Date**   |
-|:--------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|:----------:|
-| 00 - PyTorch Fundamentals        | [00_pytorch_fundamentals.ipynb](https://github.com/Yer-Marti/PyTorch-Course/blob/main/00_pytorch_fundamentals.ipynb)  | 19/02/2024 |
-| 01 - PyTorch Workflow            | [01_pytorch_workflow.ipynb](https://github.com/Yer-Marti/PyTorch-Course/blob/main/01_pytorch_workflow.ipynb)          | 29/02/2024 |
+| **Lesson**                       | **Content**                                                     | **Date**   |
+|:--------------------------------:|:---------------------------------------------------------------:|:----------:|
+| 00 - PyTorch Fundamentals        | [00_pytorch_fundamentals.ipynb](00_pytorch_fundamentals.ipynb)  | 19/02/2024 |
+| 01 - PyTorch Workflow            | [01_pytorch_workflow.ipynb](01_pytorch_workflow.ipynb)          | 29/02/2024 |
 | 02 - PyTorch Classification      | 02_pytorch_classification.ipynb | - |
 | 03 - PyTorch Computer Vision     | 03_pytorch_computer_vision.ipynb | - |
 | 04 - PyTorch Custom Datasets     | 04_pytorch_custom_datasets.ipynb | - |
