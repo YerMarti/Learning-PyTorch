@@ -22,7 +22,7 @@ I used Google Collab's Jupyter Notebooks to take notes of the lessons.
 
 ## Internal resources
 
-Some lessons of the course require building one or more models. All models for every lesson can be found in the [models](https://github.com/Yer-Marti/PyTorch-Course/tree/main/models) folder.
+Some lessons of the course require building one or more models. All models for every lesson can be found in the [models](/models) folder.
 
 ## External resources
 
