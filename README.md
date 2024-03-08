@@ -28,10 +28,10 @@ Some lessons of the course require building one or more models. All models for e
 
 These are resources that I found useful while learning and developing Machine Learning:
 
-* [PyTorch documentation](https://pytorch.org/docs/stable/index.html)
-* [TensorFlow PlayGround](https://playground.tensorflow.org)
-* [Scikit-learn documentation](https://scikit-learn.org/stable/modules/classes.html)
-* [Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* PyTorch documentation - [Doc](https://pytorch.org/docs/stable/index.html)
+* TensorFlow PlayGround - [Tool](https://playground.tensorflow.org)
+* Scikit-learn documentation - [Doc](https://scikit-learn.org/stable/modules/classes.html)
+* Python Style Guide - [Doc](https://google.github.io/styleguide/pyguide.html)
 
 ## Bibliography
 
