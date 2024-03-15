@@ -6,12 +6,14 @@ I used Google Collab's Jupyter Notebooks to take notes of the lessons.
 
 ## Main contents
 
-| **Lesson** | **Content** | **Date** |
+*Section* contains the name of the lesson or activity done, *Content* the materials/resources created in that activity, and *Date* keeps track of when I finished that activity.
+
+| **Section** | **Content** | **Date** |
 |:---:|:---:|:---:|
 | 00 - PyTorch Fundamentals | [00_pytorch_fundamentals.ipynb](00_pytorch_fundamentals.ipynb) | 19/02/2024 |
 | 01 - PyTorch Workflow | [01_pytorch_workflow.ipynb](01_pytorch_workflow.ipynb) | 29/02/2024 |
 | 02 - PyTorch Classification | [02_pytorch_classification.ipynb](02_pytorch_classification.ipynb) | 07/03/2024 |
-| 03 - PyTorch Computer Vision | 03_pytorch_computer_vision.ipynb | - |
+| 03 - PyTorch Computer Vision | [03_pytorch_computer_vision.ipynb](03_pytorch_computer_vision.ipynb) | 15/03/2024 |
 | 04 - PyTorch Custom Datasets | 04_pytorch_custom_datasets.ipynb | - |
 | 05 - PyTorch Going Modular | 05_pytorch_going_modular.md | - |
 | 06 - PyTorch Transfer Learning | 06_pytorch_transfer_learning.ipynb | - |
