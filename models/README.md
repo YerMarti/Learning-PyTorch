@@ -16,3 +16,4 @@ E.g. `01_pytorch_workflow_model_0.pth` is the 0th model of the 1st lesson with n
 |:---:|:---:|
 | 01_pytorch_workflow_model_0.pth | Linear Regression |
 | 01_pytorch_workflow_model_1.pth | Linear Regression |
+| 03_pytorch_computer_vision_model_2.pth | Multiclass Classification |
