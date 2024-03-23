@@ -1,6 +1,6 @@
-# PyTorch Course
+# Learning PyTorch
 
-Course to learn PyTorch. This repo contains all the materials I developed throughout the entirety of the course. The course followed is [Learn PyTorch for Deep Learning](https://dbourke.link/pt-github) by Daniel Bourke. Aside from the content inside the course itself, I'm doing some extracurricular exercises.
+Learning PyTorch repository. This repo contains all the materials I developed throughout the entirety of my learning. I'm currently following the course [Learn PyTorch for Deep Learning](https://dbourke.link/pt-github) by Daniel Bourke. Aside from the content inside the course itself, I'm doing some extracurricular exercises.
 
 I used Google Collab's Jupyter Notebooks to take notes of the lessons.
 
