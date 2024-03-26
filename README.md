@@ -1,11 +1,14 @@
 # Learning PyTorch
 
-
-<div align="center">
-    <img src="/assets/pytorch_logo.png" alt="PyTorch logo" width=1000 />
-</div>
+<br>
 
 Learning PyTorch repository. This repo contains all the materials I developed throughout the entirety of my learning.
+
+<br>
+
+<div align="center">
+    <img src="/assets/pytorch_logo.png" alt="PyTorch logo" width=700 />
+</div>
 
 ## Main contents
 
