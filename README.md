@@ -26,10 +26,10 @@ I'm currently following the course [Learn PyTorch for Deep Learning](https://dbo
 
 | **Lesson** | **Content** | **Date** |
 |:---:|:---:|:---:|
-| 00 - PyTorch Fundamentals | [00_pytorch_fundamentals.ipynb](/python-course/00_pytorch_fundamentals.ipynb) | 19/02/2024 |
-| 01 - PyTorch Workflow | [01_pytorch_workflow.ipynb](/python-course/01_pytorch_workflow.ipynb) | 29/02/2024 |
-| 02 - PyTorch Classification | [02_pytorch_classification.ipynb](/python-course/02_pytorch_classification.ipynb) | 07/03/2024 |
-| 03 - PyTorch Computer Vision | [03_pytorch_computer_vision.ipynb](/python-course/03_pytorch_computer_vision.ipynb) | 15/03/2024 |
+| 00 - PyTorch Fundamentals | [00_pytorch_fundamentals.ipynb](/pytorch-course/00_pytorch_fundamentals.ipynb) | 19/02/2024 |
+| 01 - PyTorch Workflow | [01_pytorch_workflow.ipynb](/pytorch-course/01_pytorch_workflow.ipynb) | 29/02/2024 |
+| 02 - PyTorch Classification | [02_pytorch_classification.ipynb](/pytorch-course/02_pytorch_classification.ipynb) | 07/03/2024 |
+| 03 - PyTorch Computer Vision | [03_pytorch_computer_vision.ipynb](/pytorch-course/03_pytorch_computer_vision.ipynb) | 15/03/2024 |
 | 04 - PyTorch Custom Datasets | 04_pytorch_custom_datasets.ipynb | - |
 | 05 - PyTorch Going Modular | 05_pytorch_going_modular.md | - |
 | 06 - PyTorch Transfer Learning | 06_pytorch_transfer_learning.ipynb | - |
