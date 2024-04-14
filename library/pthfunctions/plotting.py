@@ -12,9 +12,9 @@ def _convert_metric_name(metric_name: str) -> str:
   Returns:
       A string representing the metric name in a better format (e.g., "Test Loss").
   """
-  words = metric_name.split('_')  # Split the string by underscores
-  words = [word.capitalize() for word in words]  # Capitalize each word with a list comprehension
-  return ' '.join(words)  # Join the words back with spaces
+  words = metric_name.split('_')
+  words = [word.capitalize() for word in words]
+  return ' '.join(words)
 
 
 def plot_results_comparison(**kwargs: pd.DataFrame):
@@ -29,12 +29,12 @@ def plot_results_comparison(**kwargs: pd.DataFrame):
   """
   plt.figure(figsize=(15, 10))
   metrics = ["train_loss", "test_loss", "train_acc", "test_acc"]
-  epochs  = range(len(next(iter(kwargs.values()))))
 
   for i, metric in enumerate(metrics):
     plt.subplot(2, 2, i+1)
 
     for model_name, df in kwargs.items():
+      epochs = range(len(df))
       plt.plot(epochs, df[metric], label=model_name)
       
     plt.title(_convert_metric_name(metric))
