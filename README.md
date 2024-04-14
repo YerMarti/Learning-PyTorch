@@ -17,7 +17,6 @@ Learning PyTorch repository. This repo contains all the materials I developed th
 | Learn PyTorch for Deep Learning course | [pytorch-course](/pytorch-course/) | Course to learn the basics of PyTorch |
 | Python Notes | [python-notes](/python-notes/) | Useful notes to improve my Python skills, with tips and examples |
 | Models | [models](/models/) | In this folder I'll save the models I create |
-| PthFunctions | [library](/library/) | This library contains useful functions I create |
 
 ### Learn PyTorch for Deep Learning course
 
@@ -46,9 +45,9 @@ Throughout my learning, I'm discovering better/more efficient ways to code in Py
 
 Some materials require building one or more models. All models for every lesson can be found in the [models](/models/) folder.
 
-### PthFunctions
+## PthFunctions
 
-A [library](/library/) containing useful packages and functions for PyTorch development.
+A [library](https://github.com/Yer-Marti/PthFunctions) containing useful packages and functions for PyTorch development.
 
 ## External resources
 
