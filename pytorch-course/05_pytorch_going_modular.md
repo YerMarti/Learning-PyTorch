@@ -45,4 +45,4 @@ These custom parameters are known as argument flags. We can set up any number of
 
 ## 1. Get data
 
-In order to download the data, we can make a script to use `requests` and `zipfile` to download the data in github into the [data](/05-going-modular/data/) folder. The code to do so is the same as in the notebook. In my case, I put it in a script named `data.py`.
+In order to download the data, we can make a script to use `requests` and `zipfile` to download the data in github into the [data](/pytorch-course/05-going-modular/data/) folder. The code to do so is the same as in the notebook. In my case, I put it in a script named `data.py`.
