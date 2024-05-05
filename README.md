@@ -31,7 +31,7 @@ I'm currently following the course [Learn PyTorch for Deep Learning](https://dbo
 | 02 - PyTorch Classification | [02_pytorch_classification.ipynb](/pytorch-course/02_pytorch_classification.ipynb) | Introduction to classification problems and models |
 | 03 - PyTorch Computer Vision | [03_pytorch_computer_vision.ipynb](/pytorch-course/03_pytorch_computer_vision.ipynb) | Using computer vision with Torchvision |
 | 04 - PyTorch Custom Datasets | [04_pytorch_custom_datasets.ipynb](/pytorch-course/04_pytorch_custom_datasets.ipynb) | Creating our own datasets with both built-in and hand-made functions |
-| 05 - PyTorch Going Modular | 05_pytorch_going_modular.md | - |
+| 05 - PyTorch Going Modular | [05_pytorch_going_modular.md](/pytorch-course/05_pytorch_going_modular.md), [05-going-modular](/pytorch-course/05-going-modular/) | - |
 | 06 - PyTorch Transfer Learning | 06_pytorch_transfer_learning.ipynb | - |
 | 07 - PyTorch Experiment Tracking | 07_pytorch_experiment_tracking.ipynb | - |
 | 08 - PyTorch Paper Replicating | 08_pytorch_paper_replicating.ipynb | - |
