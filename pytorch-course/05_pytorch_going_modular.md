@@ -44,3 +44,5 @@ python train.py --model MODEL_NAME --batch_size BATCH_SIZE --lr LEARNING_RATE --
 These custom parameters are known as argument flags. We can set up any number of flags we need. Our goal is to replicate this with the scripts we are going to create for the previous notebook.
 
 ## 1. Get data
+
+In order to download the data, we can make a script to use `requests` and `zipfile` to download the data in github into the [data](/05-going-modular/data/) folder. The code to do so is the same as in the notebook. In my case, I put it in a script named `data.py`.
